@@ -1,0 +1,14 @@
+{
+  "name": "tailwind-buttons",
+  "version": "1.0.0",
+  "description": "Buttons for tailwindcss",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jeremy Bloomstrom <jeremy.bloomstrom@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "tailwindcss": "^1.4.6"
+  }
+}
